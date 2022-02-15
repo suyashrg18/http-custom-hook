@@ -1,2 +1,2 @@
 # http-custom-hook
-Practising custom hooks
+Practising reactjs custom hooks
